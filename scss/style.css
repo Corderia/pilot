@@ -1333,7 +1333,6 @@ main .topSalutationWrap p {
 main .topSalutation ul {
   text-align: center;
   display: block;
-  margin-top: 3rem;
   background-color: var(--Btn);
   box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.3);
 }
